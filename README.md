@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/ly95/dingtalk_robot)](https://goreportcard.com/report/github.com/ly95/dingtalk_robot)
+
 # 简单例子
 
 ```
